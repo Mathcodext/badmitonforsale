@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Badminton Shop</title>
+</head>
+<body>
+	<header>
+		<h1>Badminton Shop</h1>
+		<nav>
+			<ul>
+				<li><a href="#raquettes">Raquettes</a></li>
+				<li><a href="#volants">Volants</a></li>
+				<li><a href="#chaussures">Chaussures</a></li>
+				<li><a href="#accessoires">Accessoires</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section id="raquettes">
+			<h2>Raquettes de badminton</h2>
+			<p>Notre sélection de raquettes de badminton comprend les meilleures marques du marché, telles que Yonex, Wilson et Babolat. Que vous soyez débutant ou joueur confirmé, nous avons une raquette qui vous conviendra.</p>
+			<ul>
+				<li>
+					<img src="yonex-raquette.jpg" alt="Raquette de badminton Yonex">
+					<h3>Raquette Yonex Voltric Z-Force II</h3>
+					<p>La raquette Yonex Voltric Z-Force II est idéale pour les joueurs de niveau intermédiaire à avancé qui cherchent une raquette puissante et précise. Son cadre en graphite et en tungstène lui confère une excellente stabilité et une bonne maniabilité.</p>
+					<p class="prix">Prix : 199,99€</p>
+					<button>Ajouter au panier</button>
+				</li>
+				<li>
+					<img src="wilson-raquette.jpg" alt="Raquette de badminton Wilson">
+					<h3>Raquette Wilson Blade</h3>
+					<p>La raquette Wilson Blade est une raquette polyvalente et maniable, idéale pour les joueurs de niveau débutant à intermédiaire. Son cadre en graphite et son amortisseur de vibrations en mousse garantissent un bon confort de jeu.</p>
+					<p class="prix">Prix : 149,99€</p>
+					<button>Ajouter au panier</button>
+				</li>
+			</ul>
+		</section>
+		<section id="vol
